@@ -5,6 +5,7 @@ Este projeto é uma aplicação desktop desenvolvida em Python, utilizando a bib
 A aplicação se integra com duas principais fontes de dados:
 
 API do IBGE: Para obter a lista de estados e municípios brasileiros.
+
 AccuWeather: Para obter as previsões climáticas detalhadas, incluindo a temperatura atual e as condições para os próximos três dias.
 
 ## Funcionalidades
