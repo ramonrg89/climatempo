@@ -1,6 +1,11 @@
 # Previsão do Tempo
 
-Este projeto é uma aplicação desktop desenvolvida em Python que utiliza a biblioteca `tkinter` para criar uma interface gráfica para consulta da previsão do tempo. A aplicação utiliza a API do IBGE para obter estados e municípios brasileiros e o site AccuWeather para obter as previsões climáticas.
+Este projeto é uma aplicação desktop desenvolvida em Python, utilizando a biblioteca tkinter para criar uma interface gráfica amigável. A aplicação permite consultar a previsão do tempo para qualquer município brasileiro e enviar essas informações diretamente para um e-mail especificado pelo usuário.
+
+A aplicação se integra com duas principais fontes de dados:
+
+API do IBGE: Para obter a lista de estados e municípios brasileiros.
+AccuWeather: Para obter as previsões climáticas detalhadas, incluindo a temperatura atual e as condições para os próximos três dias.
 
 ## Funcionalidades
 
