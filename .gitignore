@@ -1,0 +1,19 @@
+# Ignorar o arquivo de variáveis de ambiente
+.env
+
+# Ignorar arquivos de configuração do Python
+*.pyc
+__pycache__/
+
+# Ignorar arquivos do editor
+.vscode/
+.idea/
+
+# Ignorar arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+
+# Ignorar arquivos do sistema operacional
+.DS_Store
+Thumbs.db
